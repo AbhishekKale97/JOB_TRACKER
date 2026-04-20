@@ -7,7 +7,7 @@ A modern **full-stack MERN application** that helps you track, organize, and man
 ## 🌐 Live Demo
 
 * 🔗 **Frontend:** https://job-tracker-eight-theta.vercel.app/
-* 🔗 **Backend API:** https://jobtracker-backend-z58z.onrender.com
+* 🔗 **Backend API:** https://jobtracker-backend-z58z.onrender.com/api/health
 
 ---
 
